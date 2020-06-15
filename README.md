@@ -34,3 +34,5 @@ Repositório criado para arquivo de identificação do projeto de WebScrapping
           Allow: /
           
   Termo de uso: https://www.frasesparaface.com.br/termos-uso/  ("Garante acesso limitado apenas aos que estiverem de acordo e cumprirem   os termos de uso. O frasesparaface.com.br se reverva ao direito de limitar o acesso a qualquer um, a qualquer momento e por qualquer     motivo."). No entanto o mesmo não limita o uso no sentido de exploração e consumo dos dados.
+
+3_ Taxa de disparo: Estamos usando time.sleep de 6 a 10 segundos para cada busca no site.
